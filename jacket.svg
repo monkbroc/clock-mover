@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100.00001"
+   viewBox="0 0 99.999996 100.00001"
+   id="svg4819"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="jacket.svg">
+  <defs
+     id="defs4821" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="34.648"
+     inkscape:cy="29.41032"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="1985"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4824">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(590.68452,-117.33243)">
+    <g
+       id="g4564"
+       transform="matrix(2.0996443,0,0,2.0996443,-591.07598,116.94097)"
+       style="display:inline;stroke-width:1.62711871;stroke-miterlimit:4;stroke-dasharray:none">
+      <g
+         id="g4566"
+         style="stroke-width:1.62711871;stroke-miterlimit:4;stroke-dasharray:none">
+        <line
+           style="fill:none;stroke:#000000;stroke-width:1.62711871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           stroke-miterlimit="10"
+           x1="15.189"
+           y1="36.291"
+           x2="20.565001"
+           y2="36.291"
+           id="line4568" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.62711871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0"
+           stroke-miterlimit="10"
+           d="m 40.727,12.439 -11.2,-4.167 5.076,-2.16 c 0,0 -2.089,-5.112 -10.603,-5.112 -8.514,0 -10.603,5.112 -10.603,5.112 l 5.076,2.16 -11.201,4.167 -6.272,28.598 1.047,4.139 4.628,0.365 1.793,-4.016 4.032,-16.55 0,22.025 11.5,0 11.5,0 0,-22.025 4.031,16.551 1.794,4.016 4.628,-0.365 1.047,-4.14 -6.273,-28.598 z"
+           id="path4570" />
+        <line
+           style="fill:none;stroke:#000000;stroke-width:1.62711871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           stroke-miterlimit="10"
+           x1="32.812"
+           y1="36.291"
+           x2="27.434"
+           y2="36.291"
+           id="line4572" />
+        <g
+           id="g4574"
+           style="stroke-width:1.62711871;stroke-miterlimit:4;stroke-dasharray:none">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1.62711871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             inkscape:connector-curvature="0"
+             stroke-miterlimit="10"
+             d="m 23.999,14.474 c 0,0 -1.995,-4.431 -5.094,-6.201 0,0 0.405,-3.034 5.094,-3.034"
+             id="path4576" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1.62711871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             inkscape:connector-curvature="0"
+             stroke-miterlimit="10"
+             d="m 24.001,14.474 c 0,0 1.994,-4.431 5.094,-6.201 0,0 -0.405,-3.034 -5.094,-3.034"
+             id="path4578" />
+        </g>
+      </g>
+      <line
+         style="fill:none;stroke:#000000;stroke-width:1.62711871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         stroke-miterlimit="10"
+         x1="23.999001"
+         y1="15.272"
+         x2="23.999001"
+         y2="46.07"
+         id="line4580" />
+    </g>
+  </g>
+</svg>

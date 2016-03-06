@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Weather clock</title>
+    <style>
+@font-face {
+  font-family: 'Batang';
+  src: url('UnBatang.ttf')  format('truetype');
+}
+
+h1 {
+  font-family: Batang, serif;
+}
+
+.main-title {
+  text-align: center;
+  font-size: 40px;
+}
+
+.clothes-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  /* background: #419be0; */
+}
+
+.clothes-container > .choice {
+  padding: 30px;
+  border: 1px solid transparent;
+  cursor: pointer;
+}
+
+.clothes-container > .choice.-active {
+  border: 1px solid #333;
+}
+
+    </style>
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <script src="particle.min.js"></script>
+  </head>
+
+  <body>
+    <h1 class="main-title">What should I wear outside?</h1>
+    <div class="clothes-container">
+      <img class="choice" src="umbrella.svg">
+      <img class="choice" src="jacket.svg">
+      <img class="choice" src="tshirt.svg">
+      <img class="choice" src="sweater.svg">
+      <img class="choice" src="hat.svg">
+      <img class="choice" src="shovel.svg">
+    </div>
+
+    <script>
+
+var api = new Particle();
+var token = '7d2068b5ebe934a6052240de64905437cc64b1c5'; // expires 2016-03-13
+
+$(".clothes-container > .choice").on('click', function (event) {
+  var $el = $(this);
+  $(".clothes-container > *").removeClass('-active');
+  $el.addClass('-active');
+
+  var clothes = $el.attr('src').replace(".svg", "");
+  
+  api.publishEvent({
+    name: "clock-move",
+    data: clothes,
+    isPrivate: true,
+    auth: token
+  });
+});
+    </script>
+  </body>
+</html>
